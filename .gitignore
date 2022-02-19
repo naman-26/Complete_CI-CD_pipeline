@@ -1,0 +1,10 @@
+# local .terraform dir
+.terraform/*
+
+### Format2  ###
+**/Terraform/.terraform/*/**
+
+
+# tf state files
+*.tfstate
+*.tfstate.*
