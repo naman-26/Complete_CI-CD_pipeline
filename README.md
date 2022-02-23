@@ -1,6 +1,6 @@
 # Complete_CI-CD_pipeline
 
-In this project I have used a simple java-maven-app to bulid a CI/CD pipeline on Jenkins.
+In this project, I have used a simple java-maven-app to bulid a CI/CD pipeline on Jenkins.
 
 Stage 1 :-
   Building the jar file of the java-maven-app
